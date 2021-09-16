@@ -24,3 +24,4 @@
  </div>
  
   
+ ![Snake animation](https://github.com/hellolima/hellolima/blob/output/github-contribution-grid-snake.svg)
