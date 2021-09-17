@@ -1,4 +1,4 @@
-## Hello World! Eu sou a Gabriella 
+## Hello World! Eu sou a Gabriella.
  
  <div style="display: inline_block"><br>
   <a href="https://github.com/hellolima">
