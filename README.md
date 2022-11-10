@@ -1,4 +1,4 @@
-### Hello World :earth_americas:! I'm Gabriella .
+### Hello World! I'm Gabriella .
  
 <div style="display: inline_block"><br>
 <a href="https://github.com/hellolima">
